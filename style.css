@@ -1,0 +1,54 @@
+.top{
+    border: 30px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 32, 37);
+    font-weight: 500;
+    background-color: rgb(210, 241, 195);
+}
+
+.a{
+    max-height: 50;
+    max-width: 50;
+    border-radius: 300px; 
+    margin-right: 10%;
+    display: flex;
+}
+
+.text1
+{
+    text-align: center;
+}
+
+
+.cimg {
+    width: 50%;
+    height: 50%;
+}
+
+.card {
+    margin: 1.5rem;
+    padding: 1.5rem;
+    border: 1px solid white;
+    border-radius: 3%;
+}
+
+.card:hover {
+    border: 1px solid white;
+    border-radius: 3%;
+    box-shadow: 0 0 15px darkgray
+}
+
+.c1 {
+    background-color: #f7fdf5c1;
+}
+
+.headline
+{text-align: center;}
+
+
+.icon
+{
+    width: 20%;
+    
+}
